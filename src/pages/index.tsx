@@ -28,7 +28,7 @@ export default function Home() {
           <CardContent className="p-6">
             <h3 className="text-xl font-semibold mb-2">Méthode 100% personnalisée</h3>
             <p className="text-gray-600">
-              Diagnostic initial, plan de travail adapté, progression en temps réel. On s'adapte à ton profil et ton rythme !
+              Diagnostic initial, plan de travail adapté, progression en temps réel. On s&rsquo;adapte à ton profil et ton rythme !
             </p>
           </CardContent>
         </Card>
@@ -53,7 +53,7 @@ export default function Home() {
       <section className="mt-20 max-w-4xl mx-auto">
         <h2 className="text-3xl font-bold mb-6 text-sky-800 text-center">À propos</h2>
         <p className="text-gray-700 text-lg leading-relaxed text-center">
-          Je suis un tuteur passionné par l’enseignement et les cultures éducatives internationales. J’aide les élèves français à réussir leur SAT ou ACT grâce à une approche structurée, bienveillante et 100% adaptée au système anglo-saxon. Mon objectif : t’amener à intégrer une université américaine de premier plan en sciences !
+          Je suis un tuteur passionné par l&rsquo;enseignement et les cultures éducatives internationales. J&rsquo;aide les élèves français à réussir leur SAT ou ACT grâce à une approche structurée, bienveillante et 100% adaptée au système anglo-saxon. Mon objectif : t&rsquo;amener à intégrer une université américaine de premier plan en sciences !
         </p>
       </section>
 
@@ -62,13 +62,13 @@ export default function Home() {
         <div className="grid md:grid-cols-2 gap-6">
           <Card className="shadow-lg">
             <CardContent className="p-4">
-              <p className="text-gray-700 italic">“Grâce à cette préparation, j’ai progressé de 180 points en 6 semaines. La méthode est claire, rigoureuse et motivante.”</p>
+              <p className="text-gray-700 italic">“Grâce à cette préparation, j&rsquo;ai progressé de 180 points en 6 semaines. La méthode est claire, rigoureuse et motivante.”</p>
               <p className="mt-2 font-semibold">— Emma, admise à UC Berkeley</p>
             </CardContent>
           </Card>
           <Card className="shadow-lg">
             <CardContent className="p-4">
-              <p className="text-gray-700 italic">“J’ai pu comprendre les pièges du test ACT et apprendre à gérer mon stress. Les sessions sont dynamiques et bien construites.”</p>
+              <p className="text-gray-700 italic">“J&rsquo;ai pu comprendre les pièges du test ACT et apprendre à gérer mon stress. Les sessions sont dynamiques et bien construites.”</p>
               <p className="mt-2 font-semibold">— Théo, futur étudiant en ingénierie</p>
             </CardContent>
           </Card>
